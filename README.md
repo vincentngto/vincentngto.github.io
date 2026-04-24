@@ -6,7 +6,7 @@ Based in Toronto. Open to Data Analyst and Business Intelligence Analyst roles.
 
 📧 ngvincent2003@gmail.com
 💼 [LinkedIn](https://linkedin.com/in/vincentngto)
-📄 [Resume (PDF)](.Vincent-Ng-Resume.pdf)
+📄 [Resume (PDF)](.vincent-ng-resume.pdf)
 
 ---
 
